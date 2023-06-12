@@ -1,0 +1,10 @@
+* data-table
+
+A Common Lisp data structure representing tabular data (think CSVs and database results)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/data-table.git   |
+| commit  | c2dbfd9  |
+| systems | data-table |
+|---------+-------------------------------------------|
+

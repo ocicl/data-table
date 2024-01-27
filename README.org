@@ -5,5 +5,5 @@ A Common Lisp data structure representing tabular data (think CSVs and database 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/AccelerationNet/data-table.git |
 | commit  | fe3a9e6                                               |
-| systems | data-table                                            |
+| systems | data-table data-table-clsql                           |
 |---------+-------------------------------------------------------|
